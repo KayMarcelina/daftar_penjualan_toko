@@ -20,7 +20,7 @@ Fungsi utama dari aplikasi ini adalah untuk membantu pengelolaan stok barang dan
 
 ## Cara Menjalankan Program
 
-1. Pastikan Python sudah terinstall (versi 3.x)
+1. Pastikan Python sudah terinstall
 2. Install dependensi `tabulate` (jika belum ada)
 3. Jalankan file pyton: nama_file.py
 
